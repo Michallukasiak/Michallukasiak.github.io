@@ -1,0 +1,116 @@
+body
+{
+    background-color: cornflowerblue;
+}
+header
+{
+    text-align: center;
+    padding: 10px;
+    background-color: coral;
+    font-family: fantasy;
+    font-size: 30px;
+}
+nav
+{
+    text-align: center;
+    padding: 10px;
+    border: 5px solid red;
+    background-color: darkorange;
+}
+button
+{
+    outline: none;
+    border-radius: 20px;
+    border-style: double;
+    border-color: black;
+    background-color: chocolate;
+    width: 24%;
+    height: 50px;
+    font-family: sans-serif;
+    text-align: center;
+}
+button:hover
+{
+    transition-duration: 0.4s;
+    background-color: cadetblue;
+}
+article
+{
+    width: 50%;
+    background-color: bisque;
+    border-right: 4px solid black;
+    float: left;
+}
+.p1
+{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 5px;
+}
+li
+{
+    padding-left: 10px;
+}
+p
+{
+    padding-left: 5px;
+    font-size: 30px;
+}
+img
+{
+    margin-left: 160px;
+    width: 470px;
+    height: 470px;
+    margin-bottom: 10px;
+}
+aside
+{
+    background-color: burlywood;
+    height: 793px;
+}
+table
+{
+    background-color: cadetblue;
+    position: absolute;
+    margin-left: 1050px;
+    font-size: 20px;
+    border: 2px solid black;
+    text-align: center;
+    width: 40%;
+    height: 600px;
+    margin-top: 20px;
+}
+td
+{
+    border: 2px solid black;
+    padding: 10px;
+}
+h1
+{
+    font-size: 45px;
+    text-align: center;
+}
+h3
+{
+    position: absolute;
+    margin-left: 1400px;
+    margin-top: 655px;
+    text-decoration: none;
+}
+h3:visited
+{
+    text-decoration: none;
+}
+form
+{
+    text-align: center;
+    font-size: 25px;
+    font-family: serif;
+}
+footer
+{
+    clear: both;
+    font-size: 20px;
+    text-align: center;
+    background-color: burlywood;
+}
